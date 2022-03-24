@@ -1,5 +1,16 @@
 # RPG Tutorial Creation
 
+## What to Note About Tutorials
+Tutorials are the first impressions of a game, so they must be a good one. If the first impression your player gets of your game is a bad one, chances are they will stop playing, and that's the worst thing a player can do to your game.
+
+They also teach the player how to play the game, so it's very important players don't skip it, because they won't understand basic mechanics without it, and that might create frustration. 
+
+It's important to note that tutorials aren't just "a level". This means that a tutorial isn't just a small room where the player learns all of the mechanics of a game; tutorials happen every single time a player learns something new about your game, even in later parts.
+
+Finally, different games will require different types of tutorial, depending on the complexity and design of the game.
+
+
+
 ## 1. Don't Put Too Much Text  
 Let the player play the new mechanics instead of telling him what they do.
    
