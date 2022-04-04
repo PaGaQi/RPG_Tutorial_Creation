@@ -22,9 +22,7 @@ Not all mechanics can be explained through play, obviously. In the cases where y
 
 An example of what a badly implemented text tutorial looks like is in Final Fantasy VII Remake. In this video, Cloud is about to battle some guards when text appears on screen. The first time this happens it's not that big of a deal, the amout of text is relatively small and it happens before the action has started so the pacing isn't hit too bad. The second time it happens though (6:15), a pop up appears on screen while Cloud is attacking the guards. This is the worst thing you can do in a tutorial. You should never interrupt the player while he's playing your game. Taking control away from the player can (and in most cases will) lead to frustration, and if you abuse this too much you'll most likely end up losing most of your players.
 
-<img src="https://i.blogs.es/59b22f/ffvii-remake/1366_2000.jpeg" alt="Image description">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I4o7eSKLN40?start=360" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-https://www.youtube.com/watch?v=I4o7eSKLN40&t=360s
    
 ## 2. Don't Frontload  
    Don't overwhelm the player with information at the beginning; instead try to spread out the info, and only use it when it's relevant.
