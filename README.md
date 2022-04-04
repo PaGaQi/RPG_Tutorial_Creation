@@ -11,8 +11,17 @@ Finally, different games will require different types of tutorial, depending on 
 
 
 
-## 1. Don't Put Too Much Text  
-Let the player play the new mechanics instead of telling him what they do.
+## 1. Less Text
+Using too much text can lead to a complete stop of the immerssion and pacing of the game. Like I said before, tutorials are the first impression of a game, and if that impression is a giant, unskippable wall of text you're going to kill a lot of the interest the player has. 
+
+Having a giant wall of text can be very overwheling to the player. This will make the players skip your tutorial, and if a player skips the tutorial they won't know how to play and they'll eventually get frustrated and stop playing (and that's the last thing we want).
+
+Instead of telling the player what to do, let the player PLAY the game to learn what to do. Experiencing things by yourself makes you internalize them better, and remember them better in the long run. Plus, having interactive tutorials will stop the player from getting easily bored and thus the player will be more invested in the game.
+
+Not all mechanics can be explained through play, obviously. In the cases where you can't explain a mechanic through interactivity I'd recommend trying to keep the text to a minimum.
+
+An example of what a badly implemented text tutorial looks like is in Final Fantasy VII Remake. In this video, Cloud is about to battle some guards when text appears on screen. The first time this happens it's not that big of a deal, the amout of text is relatively small and it happens before the action has started so the pacing isn't hit too bad. The second time it happens though (6:15), a pop up appears on screen while Cloud is attacking the guards. This is the worst thing you can do in a tutorial. You should never interrupt the player while he's playing your game. Taking control away from the player can (and in most cases will) lead to frustration, and if you abuse this too much you'll most likely end up losing most of your players.
+https://www.youtube.com/watch?v=I4o7eSKLN40&t=360s
    
 ## 2. Don't Frontload  
    Don't overwhelm the player with information at the beginning; instead try to spread out the info, and only use it when it's relevant.
