@@ -14,6 +14,7 @@ Finally, different games will require different types of tutorial, depending on 
 
 ## 1. Less Text
 <img src="https://stickerly.pstatic.net/sticker_pack/1OzmnaU2rNLhyhkZpvaJQg/N90LUG/5/f0f6f803-deeb-4766-b396-1489b8c2997e.png">
+
 Using too much text can lead to a complete stop of the immerssion and pacing of the game. Like I said before, tutorials are the first impression of a game, and if that impression is a giant, unskippable wall of text you're going to kill a lot of the interest the player has. 
 
 Having a giant wall of text can be very overwheling to the player. This will make the players skip your tutorial, and if a player skips the tutorial they won't know how to play and they'll eventually get frustrated and stop playing (and that's the last thing we want).
