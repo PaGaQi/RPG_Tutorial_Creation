@@ -29,15 +29,29 @@ An example of what a badly implemented text tutorial looks like is in Final Fant
    
 ## 2. Don't Frontload  
 
+[IMAGEN TUTORIAL/GAMEPLAY 1]
+
 Don't overwhelm the player with information at the beginning. This will only make the players forget, get bored and get frustrated. If you introduce all of the info at the start you'll be introducing information before the player is invested in the game, so they'll likely won't care enough to internalize it that early on. In addition to this, information that's not needed at the time will be introduced, and it's very likely that mechanics that aren't relevant in the beggining will be forgoten later on by the player.
 
 This approach also prevents the player from actually playing the game. If the first 10 minutes of your game are a boring tutorial two things can happen: either the player skips your tutorial (which means you've failed as a designer), or you lose the player forever.
-   
+
+[IMAGEN TUTORIAL/GAMEPLAY 2]
+
+Instead of doing this, try to introduce information when it's relevant in the game. This allows players to test out new mechanics when necessary, making them remember things more easily. Plus, this way you can introduce mechanics at the same time as the narrative, making everything more cohesive.
+
+[IMAGEN CURVA TUTORIAL]
+
+This curve is the Learning Curve in terms of investment and willingness to learn. What this shows is that people's willingness to learn grows overtime, so players don't want to get new information at the beginning of the game, and as they play more and more their willingness to master the game gets stronger.
+
 ## 3. Make it Fun  
-   Use interactivity to your advantage, don't just teach the player, teach him while he's playing.
-   
+This is very important. Tutorials should be an extension of gameplay, rather than being a separated room where the player learns all of the mechanics, it should be interwined with the story and gameplay. If you create a boring tutorial you'll lose about 50% of your audience at some point in the game. Remember, the players should be learning AND playing, not learning or playing.
+
+If you can make your player learn without noticing they're learning you've beaten game design completely. A good example of this is Portal, which has 24 levels, out of which 18 are a tutorial (so 75% of Portal 1's levels are tutorial), but you don't notice this because the game is so much fun.
+
 ## 4. Reinforce Learning Through Play  
-   Try to design the levels to be intuitive enough so that the player can learn the basic concept of mechanics without having to use words.
+If it's possible, the game design should teach the player by itself. So, the level design should guide the player without using words or extra information. The following video explains this concept perfectly:
+
+<iframe width="560" height="315" src="https://youtu.be/MMggqenxuZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 5. Playtest a Lot 
    Don't take your design decisions for granted. Observe your playtesters and listen to them.
