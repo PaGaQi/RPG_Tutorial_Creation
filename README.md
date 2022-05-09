@@ -44,6 +44,9 @@ Instead of doing this, try to introduce information when it's relevant in the ga
 This curve is the Learning Curve in terms of investment and willingness to learn. What this shows is that people's willingness to learn grows overtime, so players don't want to get new information at the beginning of the game, and as they play more and more their willingness to master the game gets stronger.
 
 ## 3. Make it Fun  
+
+<img src="https://i.pinimg.com/originals/60/0c/d3/600cd381942d1ab1b1d52f7edde3ef99.gif">
+
 This is very important. Tutorials should be an extension of gameplay, rather than being a separated room where the player learns all of the mechanics, it should be interwined with the story and gameplay. If you create a boring tutorial you'll lose about 50% of your audience at some point in the game. Remember, the players should be learning AND playing, not learning or playing.
 
 If you can make your player learn without noticing they're learning you've beaten game design completely. A good example of this is Portal, which has 24 levels, out of which 18 are a tutorial (so 75% of Portal 1's levels are tutorial), but you don't notice this because the game is so much fun.
