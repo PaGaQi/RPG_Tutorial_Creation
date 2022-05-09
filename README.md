@@ -54,7 +54,14 @@ If it's possible, the game design should teach the player by itself. So, the lev
 <iframe width="560" height="315" src="https://youtu.be/MMggqenxuZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 5. Playtest a Lot 
-   Don't take your design decisions for granted. Observe your playtesters and listen to them.
+
+<img src="https://supermariomaker.nintendo.com/assets/img/common/char-mario-luigi-goombas.png">
+
+It's important to remember that design decisions that may be obvious to us, may not be like that for everyone. Designers tend to take a lot of design choices for granted after working on a project for some time. After a while, we start to internalize the design language of our game, and it's always necessary to get out of our current mindset and see the game from an outside perspective to see what works and what doesn't.
+
+It's recommendable to just observe and listen in the playtesting; be quiet and take notes as the player naviagates your game, and if you notice an unexpected reaction write it down. After the playtester is done you can start talking again, but only to ask questions, don't try to justify your design decisions. Via this playtesting you'll see what needs to be changed, what needs to be explained in more detail and how the player plays.
+
+When playtesting you should also know who you're making the game for (in other words, know your demographic). If you demographic doesn't usually play PC games, you should explain what WASD is, for instance.
    
 ## 6. Don't Create a Nuisance  
    Don't make your tutorial annoying; if you're creating a "classic" tutorial make it skippable, and if not try to make it not interrupt the flow of gameplay.
