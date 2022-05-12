@@ -81,10 +81,10 @@ It's a good practice to let the player revisit old tutorial information at all t
 
 This is especially true in mechanically complex games. For instance, it's very rare to see a fighting game without a Moves List to check at all times (even in the middle of battle!). Here's what a Moves List looks like (this one specifically is from JoJo: All-Star Battle):
 
-<img src="https://c.tenor.com/7MxfviilL1UAAAAd/fnv-fallout.gif">
+<img src="https://i.gyazo.com/6c957116261120b0c5a9cab000e66675.png">
    
 ## 8. Don't Leave it For Last 
-<img src="https://i.gyazo.com/6c957116261120b0c5a9cab000e66675.png">
+<img src="https://c.tenor.com/7MxfviilL1UAAAAd/fnv-fallout.gif">
 
 And finally... DON'T LEAVE THE TUTORIAL FOR LAST!
 
@@ -95,4 +95,4 @@ You should NEVER leave the tutorial for last. If you do it, you'll be left with 
 ## The End
 Thank you for reading!
 
-<img src="https://i.imgur.com/YV79ypR.gif>
+<img src="https://i.imgur.com/YV79ypR.gif">
