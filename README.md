@@ -73,7 +73,7 @@ In the case that your game benefits from creating a classic tutorial (those that
 
 If you want an example of a horrible, unskippable tutorial you have the Splinter Cell tutorial. It's boring, long, and doesn't reflect the actual gameplay.
 
-<iframe width="560" height="315" src="https://youtu.be/MFIrseKcrT4?t=189" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MFIrseKcrT4?start=189" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
 ## 7. Accessible at all Times  
 
