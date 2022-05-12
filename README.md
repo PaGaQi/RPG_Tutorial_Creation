@@ -54,7 +54,7 @@ If you can make your player learn without noticing they're learning you've beate
 ## 4. Reinforce Learning Through Play  
 If it's possible, the game design should teach the player by itself. So, the level design should guide the player without using words or extra information. The following video explains this concept perfectly:
 
-<iframe width="560" height="315" src="https://youtu.be/MMggqenxuZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MMggqenxuZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (https://youtu.be/MMggqenxuZc)
 
